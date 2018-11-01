@@ -3,4 +3,4 @@ Hey! This is a simple demo for drawing some graphs(like lines, rectangles or rou
 
 The graphs you could chose: lines, rectangles and graphs
 
-Maybe I will add some functions like change the graphs you have drawn.
+Maybe I will add some functions like change the graphs.
