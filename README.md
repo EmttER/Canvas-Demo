@@ -11,6 +11,6 @@ The fatures this demo has:
 
 5. Maybe I could add the function which support you change the graphs(?)
 
-![image](https://github.com/EmttER/DemoForDrawingSomeGraphs/blob/master/images/Screenshot_01.png)
+![image](https://github.com/EmttER/Canvas-Demo/blob/master/images/Screenshot_01.png)
 
 if you have any questions and advice, please contact me :-)
