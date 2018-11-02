@@ -10,3 +10,5 @@ The fatures this demo has:
 4. you could write the data about the graphs in a ini file. For a line, it's the vertex of both sides; for a rectangle, it's the center spot, the width and the height; for the rounds, it's the center spot and the radius.
 
 5. Maybe I could add the function which support you change the graphs(?)
+
+if you have any questions and advice, please contact me :-)
