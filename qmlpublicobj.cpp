@@ -2,7 +2,7 @@
 
 QMLPublicObj::QMLPublicObj()
 {
-
+    //null
 }
 
 QString QMLPublicObj::getIniValueByArray(const QString &iniPath, const QString &JSONString)
