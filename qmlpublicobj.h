@@ -2,6 +2,7 @@
 #define QMLPUBLICOBJ_H
 
 #include <QObject>
+#include <QQml>
 #include <QString>
 #include <QSettings>
 #include <QJsonArray>
