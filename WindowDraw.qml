@@ -392,9 +392,6 @@ Window{
 
             //鼠标双击
             onDoubleClicked: {
-                console.log("=====已存数组为：=====")
-                console.log(lineStartX)
-                console.log(lineStartY)
             }
             //鼠标按下,开始绘制
             onPressed: {
