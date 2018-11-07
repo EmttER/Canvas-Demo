@@ -18,4 +18,5 @@ if you have any questions and advice, please contact me :-)
 =====update in 20181107=====
 
 1.Fix several bugs
+
 2.New feature → Now we can delete the graphs by selecting them in the "History Record" bar and clicking the "Delete" button
